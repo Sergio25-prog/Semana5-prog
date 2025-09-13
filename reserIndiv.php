@@ -11,7 +11,7 @@ $reservacion = [
 ];
 
 // Para acceder a un dato específico, se utiliza su clave:
- //gecho $reservacion["nombre"]; // Esto imprimiría "Juan Pérez"
+ //echo $reservacion["nombre"]; // Esto imprimiría "Juan Pérez"
  ?>
 
 
